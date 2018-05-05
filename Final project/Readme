@@ -1,0 +1,11 @@
+1. First list box select the label for target.
+2. Second List box select the labels for feature Engineering.
+3. Try to avoid selected label(in first listbox) for feature engineering.
+4. Hyper parameter for models are:
+	KNN		   : (Integer Type) n_neighbors	
+	Logistic Regression: (Float Type) C
+	Decision Tree	   : (Integer Type) min_samples_split
+	Random Forest	   : (Integer Type) n_estimators
+5. Last button(section) popup two window. First window takes test file input and second window takes ground truth file and calculate the   	accuracy.
+  
+
